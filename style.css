@@ -1,0 +1,174 @@
+body{
+    background-color: #ececec;
+  
+}
+.top{
+    position: fixed;
+    left:0;
+    width:100%;
+    background-color:#2F2F35;
+    color: azure;
+}
+#con{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: right;
+    padding-right: 220px;
+}
+.n{
+    padding-top: 50px;
+   
+}
+.first{
+    background-color: #ececec;
+    text-align: right;
+    padding-top: 150px;
+    padding-right: 150px;
+}
+.second{
+    padding-top: 80px;
+    background-color: black;
+    color: white;
+    padding-left: 40px;
+    padding-bottom: 100px;
+    padding-right: 40px;
+}
+.s{
+    float: left;
+}
+.d{
+    float: right;
+    width: 840px;
+}
+.third{
+    background-color:white;
+    padding-top: 140px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+}
+.fourth{
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(27, 27, 27);
+    text-align: center;
+    color: white;
+    padding-bottom: 40px;
+}
+#logo{
+    width:90%;
+}
+.fifth{
+    background-color: #ececec;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 80px;
+}
+.sixth{
+    background-color: #ececec;
+    text-align: center;
+}
+.seven{
+    background-color: #ececec;
+}
+.eight{
+    background-color: #ececec;
+    text-align: center  ;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.nine{
+    background-color: #ececec;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.ca{
+    padding-top: 40px;
+}
+.photos{
+    padding-top: 30px;
+    
+}
+.green{
+    background-color: #B2D426;
+}
+.last{
+    padding-bottom: 40px;
+}
+.y{
+    text-align: left;
+    padding-bottom: 20px;
+    width: 300px;
+    height: 400px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+h3{
+    padding-bottom: 10px;
+}
+.v{
+    padding-left: 140px;
+    padding-right: 180px;
+    padding-bottom: 20px;
+}
+.footer{
+    padding-left: 10px;
+    color: #B2D426;
+}
+.tech{
+    padding-bottom: 30px;
+}
+.agency{
+    background-color: black;
+}
+.agency img{
+    padding-left: 1000px;
+}
+.agency .carousel-caption{
+    padding-bottom: 80px;
+    padding-right: 500px;
+}
+#m{
+    padding-top: 30px;
+}
+.ten{
+    padding-top: 80px;
+    padding-left: 50px;
+    position: relative;
+    
+
+}
+.ten img{
+    width: 50%;
+    position: relative;
+}
+#specific{
+    background-color: #ececec;
+    color:black;
+    position: absolute;
+    top:80px;
+    right: 750px;
+}
+.br{
+    float: right;
+    width: 600px;
+    padding-right: 200px;
+}
+.contact{
+    background-color:#2F2F35;
+    color: white;
+    padding-left: 80px  ;
+}
+.steps{
+    text-align: left;
+    padding-top: 40px;
+}
+.steps p{
+    color: #B2D426;
+   margin-top: 20px;
+}
